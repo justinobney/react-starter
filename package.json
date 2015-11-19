@@ -29,13 +29,15 @@
     "json-loader": "^0.5.2",
     "lodash": "^3.10.1",
     "moment": "^2.10.6",
+    "normalize-scss": "^4.0.0",
     "react": "^0.14.1",
     "react-dom": "^0.14.2",
     "react-redux": "^4.0.0",
     "react-router": "^1.0.0",
     "redbox-react": "^1.0.5",
     "redux": "^3.0.4",
-    "redux-router": "^1.0.0-beta4"
+    "redux-router": "^1.0.0-beta4",
+    "support-for": "^1.0.2"
   },
   "devDependencies": {
     "babel-core": "^5.5.8",
